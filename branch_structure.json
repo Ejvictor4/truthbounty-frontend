@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-624-ui-fe-052-implement-safe-offline-and-read-only"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-624-ui-fe-052-implement-safe-offline-and-read-only": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-624-ui-fe-052-implement-safe-offline-and-read-only"
+  ]
+}
